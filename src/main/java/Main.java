@@ -20,7 +20,7 @@ public class Main {
             } else if (command == 4) {
                 tracker.printMonthReport();
             } else if (command == 5) {
-                tracker.printRealAIAnalysis(); // твой простой AI
+                tracker.printRealAIAnalysis(); 
             } else if (command == 6) {
                 System.out.println("Пока! Завтра 5/5 делаем 💪🔥");
                 break;// 🔥 настоящий AI
