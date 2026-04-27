@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+out/
+target/
+
+# Mac
+.DS_Store
+
+# API keys (ВАЖНО)
+.env
